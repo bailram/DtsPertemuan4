@@ -8,3 +8,18 @@ th, td {
   text-align: left;
   border-bottom: 1px solid #ddd;
 }
+
+#ex1 {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#ex2 {
+  font-size: 16px;
+  font-family: Verdana, Geneva, sans-serif
+}
+
+#ex3 {
+  font-size: 14px;
+  font-family: "Times New Roman", Times, serif;
+}
