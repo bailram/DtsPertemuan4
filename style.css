@@ -9,17 +9,29 @@ th, td {
   border-bottom: 1px solid #ddd;
 }
 
-#ex1 {
+#task3p1 {
   font-size: 18px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-#ex2 {
+#task3p2 {
   font-size: 16px;
   font-family: Verdana, Geneva, sans-serif
 }
 
-#ex3 {
+#task3p3 {
   font-size: 14px;
   font-family: "Times New Roman", Times, serif;
+}
+
+#task4p1 {
+  color: orange;
+}
+
+#task4p2 {
+  color: #d9871b;
+}
+
+#task4p3 {
+  color: green;
 }
